@@ -1,0 +1,13 @@
+Phần 1 : phân tích lỗi 
+1.	Heading k theo một trình tự rõ ràng 
+2.	Thiếu khoảng trắng ở phần danh sách các bước 
+3.	Sai đường dẫn url
+4.	Sai cú pháp in đậm 
+5.	Sai cú pháp in nghiêng 
+Phần 2 : sửa lỗi : 
+1.	# Hướng dẫn nộp bài tập session08 
+2.	Thêm dấu cách ở trước dấu – để hiện list các bước 
+3.	Cú pháp bôi đậm *......*
+4.	Cú pháp in nghiêng  *......*
+5.	Sửa đường dẫn url thành đường dẫn tuyệt đối và thêm giao thức http://
+6.	Khi sinh viên paste đường dẫn đó vào khi render sẽ báo lỗi và khiến người đọc sẽ bị hiểu lầm rằng đường link này sẽ dẫn đến một trang nội bộ chứ không phải là một trang web ở bên ngoài  
